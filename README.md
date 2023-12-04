@@ -8,7 +8,7 @@ These flowcharts are designed to accompany the [Stock Synthesis source code](htt
 
 ## Where should I ask questions or report an issue about the flowcharts?
 
-Please open an [issue](https://github.com/nmfs-stock-synthesis/ss-flowcharts/issues) if you have a question or concern related to these flowcharts.
+Please open an [issue](https://github.com/nmfs-ost/ss3-flowcharts/issues) if you have a question or concern related to these flowcharts.
 
 ## Where should I ask a question about Stock Synthesis?
 
