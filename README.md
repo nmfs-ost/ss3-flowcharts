@@ -1,5 +1,7 @@
 # ss-flowcharts
 
+**This repository has been archived.**
+
 Flowcharts for the [Stock Synthesis](https://vlab.ncep.noaa.gov/web/stock-synthesis) source code created using [drawio.Desktop](https://www.diagrams.net/)
 
 ## How can these files be used?
